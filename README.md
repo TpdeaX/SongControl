@@ -3,6 +3,7 @@ Another mod inspired by the collar server, a few extra implementations to the GJ
 
 
 
-![2023 Sep 26 17-13-441](https://github.com/TpdeaX/SongControl/assets/84187852/01f6e973-ef28-440c-ad75-71e90e3d9953)
-![2023 Sep 26 17-14-152](https://github.com/TpdeaX/SongControl/assets/84187852/8531d3bb-05d9-45da-a910-faf494cf8346)
-![2023 Sep 26 17-14-283](https://github.com/TpdeaX/SongControl/assets/84187852/b1a40ed0-705c-4a2b-bb84-bd87c267fa8e)
+
+![2023 Sep 26 17-15-110](https://github.com/TpdeaX/SongControl/assets/84187852/47a58a6d-3cac-4b91-a69f-ec499992031d)
+![2023 Sep 26 17-15-461](https://github.com/TpdeaX/SongControl/assets/84187852/a031db97-886d-48ea-af3c-c3703583f4c6)
+![2023 Sep 26 17-16-002](https://github.com/TpdeaX/SongControl/assets/84187852/32deae33-fc5c-4f89-9628-0c6f7fd98259)
