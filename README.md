@@ -1,4 +1,4 @@
-Another mod inspired by the collar server, a few extra implementations to the GJSongBrowser
+Another mod inspired by the collar server, a few extra implementations to the GJSongBrowser in geometry dash
 
 
 
